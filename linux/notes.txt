@@ -1,0 +1,10 @@
+Useful Commands
+
+pwd
+ls
+mkdir
+touch
+rm
+cp
+mv
+cat

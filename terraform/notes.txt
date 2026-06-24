@@ -1,0 +1,11 @@
+Terraform Lifecycle
+
+terraform fmt
+
+terraform validate
+
+terraform plan
+
+terraform apply
+
+terraform destroy

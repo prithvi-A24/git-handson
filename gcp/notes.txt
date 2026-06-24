@@ -1,0 +1,9 @@
+Frequently Used gcloud Commands
+
+gcloud init
+
+gcloud config list
+
+gcloud compute instances list
+
+gcloud projects list
